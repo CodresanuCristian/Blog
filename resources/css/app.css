@@ -1,0 +1,17 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+.background-image{
+    /* background-image: url('img/art1.jpg'); */
+    /* background-image: url('https://cdn.pixabay.com/photo/2017/-7/31/23/45/pen-2562078_960_720.jpg'); */
+    background-color: black;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:600px;
+}
